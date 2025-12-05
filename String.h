@@ -1,6 +1,6 @@
 #pragma once
 
-const int LENGTH = 80;
+
 
 class String
 {
